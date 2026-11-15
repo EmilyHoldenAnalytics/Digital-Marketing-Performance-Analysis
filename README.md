@@ -33,7 +33,6 @@ An end-to-end commercial analytics project evaluating multi-platform digital mar
 
 ## Repository Contents
 * 'synthetic_marketing_funnel_data' - Complete Excel workbook containing the raw dataset, cleaned data tables, analytical workflow, pivot calculations, and interactive dashboard.
-* 'Screenshots' — Preview images of the interactive dashboard layout and KPI summary charts.
 
 ---
 
